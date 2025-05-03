@@ -4,7 +4,10 @@ layout: recipe
 title:  "Banana Bread"
 image: banana-bread.jpg
 imagecredit: Photo by smalljude, cc-by 2.0, [available on Flikr](https://www.flickr.com/photos/35569413@N00/5908016178).
-tags: breakfast, baking, dessert
+tags: 
+- breakfast
+- baking
+- dessert
 
 ingredients:
 - 2 cups all-purpose flour
